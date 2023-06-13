@@ -5,7 +5,8 @@ From Geometry to Texture: A Hierarchical Framework for Efficient Text-to-3D Gene
 ## efficient
 ![image](https://github.com/Sense-GVT/Hi3D/assets/91304467/2bcc1570-0686-4f3d-950e-ce5c0a67a68f)
 ## controllable
-<img width="150" height="150" src="https://github.com/Sense-GVT/Hi3D/assets/91304467/621aa7de-c4b6-4d89-95d7-7db4fc34ac3e"/>
+<img width="300" height="300" src="https://github.com/Sense-GVT/Hi3D/assets/91304467/621aa7de-c4b6-4d89-95d7-7db4fc34ac3e"/>
+
 ![controllable](https://github.com/Sense-GVT/Hi3D/assets/91304467/621aa7de-c4b6-4d89-95d7-7db4fc34ac3e)
 
 ## geometry stable
