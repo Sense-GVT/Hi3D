@@ -17,9 +17,6 @@ https://github.com/Sense-GVT/Hi3D/assets/91304467/7515c141-df95-40f0-9ad8-6deacc
 
 
 
-# mesh
-https://github.com/Sense-GVT/Hi3D/assets/91304467/0b4afb29-39e0-40c1-a5e5-f5546163c14e
-
 
 
 
